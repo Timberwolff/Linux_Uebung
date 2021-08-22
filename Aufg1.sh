@@ -1,0 +1,1 @@
+touch {Vertrieb,HR,IT}_{Tom,Pia,Jan,Lea}_{Vorstand,Meister,Angestellter}_{Q1,Q2,Q3,Q4}
